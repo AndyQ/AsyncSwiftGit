@@ -5,7 +5,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/AndyQ/static-libgit2",
       "state" : {
-        "revision" : "17537324190723131c91f8d74ec665ef8ac7cb2e",
+        "revision" : "764cb8aadfeacb767d822e65a54b448ba3b6b9dc",
         "version" : "0.6.0"
       }
     },
